@@ -43,13 +43,7 @@ async def entrypoint(ctx: agents.JobContext):
             # ... noise_cancellation, etc.
         ),
     )
-
-# room=ctx.room,
-# room="my-room",
-
-
-    await ctx.connect()
-
+    
     await session.generate_reply(
         instructions="Greet the user and offer your assistance."
     )
