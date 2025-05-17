@@ -1,0 +1,6 @@
+livekit
+python-dotenv
+numpy
+scipy
+tensorflow
+pytorch
