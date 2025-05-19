@@ -17,6 +17,11 @@ This project is a voice agent built using LiveKit.
 ## Usage
 
 [Provide instructions on how to run and use the voice agent]
+## Run the Agent in console
+python support-agent.py console
+
+## Run the Agent in Dev Mode, use livekit demo page to test this
+python support-agent.py dev
 
 ## Contributing
 
