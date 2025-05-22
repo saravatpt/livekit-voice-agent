@@ -1,6 +1,6 @@
 # LiveKit Voice Agent
 
-This project is a voice agent built using LiveKit.
+This project is a Live agent built using LiveKit.
 
 ## Requirements
 
@@ -16,12 +16,35 @@ This project is a voice agent built using LiveKit.
 
 ## Usage
 
-[Provide instructions on how to run and use the voice agent]
-## Run the Agent in console
-python support-agent.py console
+### Support Agent (`support-agent.py`)
+This agent is a general-purpose live agent.
 
-## Run the Agent in Dev Mode, use livekit demo page to test this
+**How to Run:**
+To run the Support Agent in console mode:
+```bash
+python support-agent.py console
+```
+To run the Support Agent in development mode (for testing with LiveKit demo page):
+```bash
 python support-agent.py dev
+```
+
+### Interview Agent (`interview-agent.py`)
+
+This agent is designed to conduct technical interviews for an AI/ML Engineer (Fresher) position. It follows a structured interview process and interacts with both the candidate and HR.
+
+**Key Features:**
+-   **Candidate ID Validation:** Requires candidates to provide a valid interview ID.
+-   **Resume Validation:** Checks if the candidate's resume matches the job description.
+-   **Environment Check:** Ensures the candidate shares their screen and turns on their camera, with only a notepad visible.
+-   **Structured Interview:** Asks basic AI/ML questions, Python questions, and a coding question.
+-   **HR Interaction:** Provides an interview summary and rating to HR upon request with a valid HR ID (e.g., H1234).
+
+**How to Run:**
+To run the Interview Agent:
+```bash
+python interview-agent.py
+```
 
 ## Contributing
 
