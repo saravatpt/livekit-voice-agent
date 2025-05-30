@@ -1,0 +1,42 @@
+Raj
+Bengaluru
+Raj@xyz.com
+
+Objective:
+Motivated and detail-oriented AI Engineer with a strong foundation in machine learning algorithms, data processing, and programming. Seeking to leverage my skills and knowledge to contribute to innovative AI solutions in a dynamic and growth-oriented environment.
+
+Education:
+Bachelor of Science in Computer Science
+Bengaluru University, Bengaluru
+Graduation Date: 2024
+
+Relevant Coursework: Machine Learning, Data Structures, Algorithms, Artificial Intelligence, Data Mining
+Skills:
+Programming Languages: Python, R, Java
+Machine Learning: Supervised and Unsupervised Learning, Reinforcement Learning
+Deep Learning Frameworks: TensorFlow, PyTorch
+Data Processing: Pandas, NumPy, SQL
+NLP: NLTK, spaCy
+Tools: Jupyter, Git, Docker
+Cloud Platforms: AWS, Google Cloud
+
+Projects:
+
+Project 1
+Developed a machine learning model to predict [specific outcome].
+Utilized Python and TensorFlow for model development and training.
+Achieved [specific performance metric].
+
+Project 2
+Implemented a natural language processing pipeline for text classification.
+Used spaCy and NLTK for text preprocessing and feature extraction.
+Improved accuracy by [percentage] through hyperparameter tuning.
+
+Internship Experience:
+AI/ML Intern
+Optum, April-2024 to Oct-2024
+
+
+Assisted in developing and deploying machine learning models.
+Conducted data preprocessing and feature engineering.
+Collaborated with senior engineers to improve model performance.
